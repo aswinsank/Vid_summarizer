@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+torch
+transformers
+git+https://github.com/openai/whisper.git
+pytube
+python-multipart
+pydantic
