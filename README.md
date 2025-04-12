@@ -16,4 +16,4 @@ learning, Vid Summarizer is a valuable tool for anyone looking to make the most 
 content. By bridging the gap between long-form videos and efficient learning, this application
 ensures that knowledge acquisition remains accessible, time-efficient, and engaging for a diverse
 range of users.
-//Install pip packages for Bakend and npm modules for frontend
+//Install pip packages for Backend and npm modules for frontend
